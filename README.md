@@ -8,15 +8,15 @@
 
 - 🏫: I'm a **Computer Science & Engineering Graduate**
 
-- 🔭 I’m currently working on my **React Projects**
+- 🔭 I’m currently working for a **US based Software Company**
 
-- 🌱 I’m currently learning **Node Express, SQL, Tailwind CSS**
+- 🌱 I’m currently learning **Python, UI-Path, RPA**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
 - 📫 How to reach me: **shahriar.nafee@gmail.com**
 
-- ⚡ What I like to do: **I like so much traveling, playing cricket...and coding of course**
+- ⚡ What I like to do: **I like traveling, playing cricket...and coding of course**
 
 <hr>
 <Br>
@@ -61,6 +61,9 @@
   </a>  
   <a href="https://redux.js.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>  
+  <a href="https://angular.dev/overview/" target="_blank"> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.dev%2Fpress-kit&psig=AOvVaw28-sG-CBrCsGOxerrXkDSc&ust=1751839185166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjc9NTbpo4DFQAAAAAdAAAAABAK" alt="angular" width="40" height="40"/> 
   </a>  
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
