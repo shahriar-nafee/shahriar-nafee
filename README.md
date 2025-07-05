@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>  
   <a href="https://angular.dev/overview/" target="_blank"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.dev%2Fpress-kit&psig=AOvVaw28-sG-CBrCsGOxerrXkDSc&ust=1751839185166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjc9NTbpo4DFQAAAAAdAAAAABAK" alt="angular" width="40" height="40"/> 
+    <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" alt="angular" width="40" height="40"/> 
   </a>  
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
